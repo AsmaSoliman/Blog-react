@@ -1,0 +1,7 @@
+.my-card{
+    margin: 2rem;
+    padding: 1rem;
+    width: 18rem;
+    border-radius: 5rem;
+    border: .5rem solid #007bff ;
+}

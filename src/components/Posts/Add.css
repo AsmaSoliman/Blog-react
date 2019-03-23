@@ -1,0 +1,9 @@
+.form-container{
+border: .1rem solid #007bff;
+width: 50%;
+position: absolute;
+left: 25rem;
+top: 5rem;
+padding: 3rem;
+
+}
